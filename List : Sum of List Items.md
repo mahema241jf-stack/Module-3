@@ -22,3 +22,4 @@ print(total)
 
 
 ## Result
+The program successfully calculates and prints the sum of all elements in the list using Python's built-in sum() function.
